@@ -15,7 +15,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/influxdata/influxdb1-client/pkg/escape"
+	"github.com/rune-labs/influxdb1-client/pkg/escape"
 )
 
 type escapeSet struct {
